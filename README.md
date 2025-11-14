@@ -4,12 +4,6 @@
 - 📖 I’m currently learning Cybersecurity and UI/UX
 - 😉 Pronouns: She/Her
 
-<div> 
-  <a href="https:://github.com/EmilyVeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmilyVeira&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Emy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
