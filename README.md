@@ -10,7 +10,6 @@
   <img align="center" alt="Emy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="55em" align="center" alt="Emy-Ed" src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-289.gif">
 </div>
 
 ##
