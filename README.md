@@ -1,7 +1,7 @@
 ## Hi there, i'm EmilyVeira
 
-- 🛠️ I’m currently working on front-end or in the cybersecurity field
-- 📖 I’m currently learning Cybersecurity and UI/UX
+- 🛠️ I’m currently working on front-end and UI/UX Design
+- 📖 I’m currently learning UI/UX Design
 - 😉 Pronouns: She/Her
 
 <div style="display: inline_block"><br>
